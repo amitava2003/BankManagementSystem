@@ -60,7 +60,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/bank-management-system.git
+git clone https://github.com/amitava2003/BankManagementSystem
 Open the project in your preferred Java IDE.
 
 Set up your DB connection in the Conn.java file.
