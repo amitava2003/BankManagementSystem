@@ -1,4 +1,5 @@
 🏦 Bank Management System
+
 A Java-based Internet Banking application that simulates real-world banking operations. The project is designed to allow users and administrators to perform secure banking functions such as account creation, deposits, withdrawals, transfers, and transaction history management via a GUI interface.
 
 📌 Features
